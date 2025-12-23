@@ -1,0 +1,32 @@
+# CMake
+Build/
+build/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+*.cmake
+
+# Visual Studio
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+*.pdb
+*.ilk
+*.exe
+*.dll
+*.lib
+*.exp
+*.obj
+*.iobj
+*.ipdb
+*.tlog
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output
+out/
+bin/
